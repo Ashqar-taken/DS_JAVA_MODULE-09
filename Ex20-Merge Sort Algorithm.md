@@ -1,13 +1,13 @@
 # Ex20 Sorting an Array using Merge Sort Algorithm
-## DATE: 
+## DATE: 20.07.2026
 ## AIM:
 To design a program that sorts a given array of integers in ascending order without using built-in sorting functions, achieving O(n log n) time complexity and minimal space usage.
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Import the libraries.
+2. Intialize an array with the values give by user.
+3. Define a method mergeSort() to split the given array until there is only one element in each.
+4. Define another method merge() to sort the array while merging each divided part.
+5. Display the result.
 
 ## Program:
 ```
